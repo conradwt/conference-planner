@@ -149,7 +149,7 @@
 			buildConfigurationList = 5588973A1E83CB1900A5E05E /* Build configuration list for PBXNativeTarget "ConferencePlanner" */;
 			buildPhases = (
 				FA3FC19229DBD5DCD3CB0DBF /* [CP] Check Pods Manifest.lock */,
-				64A74A21200D611B00AA02DF /* Generate Apollo GraphQL API */,
+				6409AE8D2027240800EF7C6B /* Generate Apollo GraphQL API */,
 				558897241E83CB1900A5E05E /* Sources */,
 				558897251E83CB1900A5E05E /* Frameworks */,
 				558897261E83CB1900A5E05E /* Resources */,
@@ -236,7 +236,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ConferencePlanner/Pods-ConferencePlanner-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		64A74A21200D611B00AA02DF /* Generate Apollo GraphQL API */ = {
+		6409AE8D2027240800EF7C6B /* Generate Apollo GraphQL API */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
